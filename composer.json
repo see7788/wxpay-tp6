@@ -1,5 +1,5 @@
 {
-    "name": "topthink/think",
+    "name": "see7788/wxpay-tp6",
     "description": "the new thinkphp framework",
     "type": "project",
     "keywords": [
@@ -7,7 +7,7 @@
         "thinkphp",
         "ORM"
     ],
-    "homepage": "http://thinkphp.cn/",
+    "homepage": "https://github.com/see7788/wxpay-tp6",
     "license": "Apache-2.0",
     "authors": [
         {
